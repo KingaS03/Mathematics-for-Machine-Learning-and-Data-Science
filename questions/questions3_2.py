@@ -13,9 +13,9 @@ questions = [
      Question(question_prompts[0], "3, 4, 5"),
 ]
 
-def run_quiz(questions, answer):
+def run_quiz(questions):
     for question in questions:
-        #answer = input(question.prompt)
+        answer = input(question.prompt)
         print()
         if set(re.sub(r"[\s+,;.]", "", answer)) == set(re.sub(r"[\s+,;.]", "", question.answer)):
             print('Correct answer. Well done!\n')

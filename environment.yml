@@ -1,0 +1,11 @@
+name: MM-course-environment
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - matplotlib
+  - pandas
+  - rise
+  - ipython
+  - scipy
+  - scikit-learnS

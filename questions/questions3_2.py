@@ -6,7 +6,7 @@ class Question:
           self.answer = answer
 
 question_prompts = [
-     "The gradient descent method leads to the phone for the following starting points: "
+     rf"""The gradient descent method leads to the phone for the following starting points: """
 ]
 
 questions = [

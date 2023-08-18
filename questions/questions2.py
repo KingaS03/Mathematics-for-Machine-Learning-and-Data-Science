@@ -4,9 +4,9 @@ class Question:
           self.answer = answer
 
 question_prompts = [
-     rf"""What is the variance of the following data points X = {-2, 1, 3, 6}?\nProvide the answer with a precision of two decimal places: """,
-     rf"""What happens with the variance if we shift the data set by 3 to the right?\n(a) The variance remains the same. \n(b) The variance gets shifted by -3.\n(c) The variance gets shifted by 3.\nType the letter of the correct answer: """,
-     rf"""What happens if we scale the data points by a factor 1/2?\n(a) The variance is multiplied by a factor of 1/2.\n(b) The variance is multiplied by a factor of 1/4.\n(c) The variance is multiplied by a factor of 4.\n(d) The variance is multiplied by a factor of 2.\n(e) The variance remains the same.\nType the letter of the correct answer: """
+     f"""What is the variance of the following data points X = {-2, 1, 3, 6}?\nProvide the answer with a precision of two decimal places: """,
+     f"""What happens with the variance, if we shift the data set by 3 to the right?\n(a) The variance remains the same. \n(b) The variance gets shifted by -3.\n(c) The variance gets shifted by 3.\nType the letter of the correct answer: """,
+     f"""What happens, if we scale the data points by a factor of 1/2?\n(a) The variance is multiplied by a factor of 1/2.\n(b) The variance is multiplied by a factor of 1/4.\n(c) The variance is multiplied by a factor of 4.\n(d) The variance is multiplied by a factor of 2.\n(e) The variance remains the same.\nType the letter of the correct answer: """
 ]
 
 questions = [

@@ -2,12 +2,26 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KingaS03/Mathematics-for-Machine-Learning-and-Data-Science)
 
-A bridge between the pure theoretical knowledge and practice opens up a new dimension of thinking. On one hand you will see how can you develop new mathematical intuition by putting your theoretical question into the proper practical context. On the other hand you will experience how mathematical skills support the understanding of practical solutions from machine learning.
+# Applied Mathematics Course for Machine Learning
 
-Machine learning has become a universally applicable beloved tool in the recent years. Parallelly to that an increasing number of people are developing curiosity for it. There are available already many handy packages for machine learning. However to benefit the most of it (to be able to interpret the results and to get out the best from a model) good mathematical understanding of the background machinery can make a big difference.
+## Overview
+This course creates a bridge between theoretical knowledge and practical application, opening up a new dimension of thinking. Through this module, participants will develop new mathematical intuitions by contextualizing theoretical questions within practical scenarios. Additionally, the course emphasizes how mathematical skills enhance the understanding and application of machine learning solutions.
 
-The aim of this module is to remodel your mathematical knowledge by changing the focus from the abstract mathematics itself towards mathematics with a specific purpose and equipping you for a deeper dive into machine learning.
+## Objective
+The aim of this module is to remodel your mathematical knowledge by shifting the focus from abstract mathematics to mathematics with a specific purpose. This shift equips you for a deeper dive into machine learning, enhancing your ability to interpret results and optimize models.
 
-The material of this course is organised in Jupyter notebooks and the used programming language is Python.
+## Course Material
+The course material is organized in Jupyter notebooks using Python as the primary programming language. This setup provides a hands-on approach to learning, allowing you to directly apply mathematical concepts within a practical framework.
 
-This material, in whole or in part, may be distributed, remixed, adapted, and built upon in any medium or format for noncommercial purposes only, provided that attribution is given to the creator: Kinga Sipos, linking the online module as a reference. If you remix, adapt, or build upon the material, you must licence the modified material under identical terms.
+## <img src="Images/CCLicence4.png" width="100" align="left"> Licence
+This material, in whole or in part, may be:
+- **Distributed**
+- **Remixed**
+- **Adapted**
+- **Built upon**
+
+These activities are permitted for noncommercial purposes only, under the following conditions:
+- **Attribution**: You must provide appropriate credit to the creator, Kinga Sipos. Please link to the online module as a reference.
+- **ShareAlike**: If you remix, adapt, or build upon the material, you must license your contributions under the identical terms.
+
+This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. For more details, see [Creative Commons License](https://creativecommons.org/licenses/by-nc-sa/4.0/).

@@ -1,0 +1,1 @@
+This material, in whole or in part, may be distributed, remixed, adapted, and built upon in any medium or format for noncommercial purposes only, provided that attribution is given to the creator: Kinga Sipos, linking the online module as a reference. If you remix, adapt, or build upon the material, you must licence the modified material under identical terms.
